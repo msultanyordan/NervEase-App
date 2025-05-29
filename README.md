@@ -2,7 +2,7 @@
 
 # 🧠 NervEase: Sistem Skrining Kesehatan Mental Berbasis Deep Learning
 
-## 👨‍👩‍👧‍👦 Anggota Tim
+## 👨‍👩‍👧‍👦 Member Team
 
 | ID           | Nama                                | Universitas                                | Status       |
 |--------------|-------------------------------------|--------------------------------------------|--------------|
